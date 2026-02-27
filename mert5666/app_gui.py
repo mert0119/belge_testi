@@ -2,7 +2,7 @@
 Sahte Belge Tespit Sistemi - GUI
 Tkinter tabanlı kullanıcı arayüzü
 """
-
+ 
 import tkinter as tk
 from tkinter import filedialog, ttk, messagebox
 from PIL import Image, ImageTk
@@ -347,3 +347,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
